@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-osloproject-dev-144644-authRole",
+            "UnauthRoleArn": "arn:aws:iam::578277711363:role/amplify-osloproject-dev-144644-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::578277711363:role/amplify-osloproject-dev-144644-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-osloproject-dev-144644-deployment",
+            "UnauthRoleName": "amplify-osloproject-dev-144644-unauthRole",
+            "StackName": "amplify-osloproject-dev-144644",
+            "StackId": "arn:aws:cloudformation:eu-west-1:578277711363:stack/amplify-osloproject-dev-144644/f53afcd0-a5a6-11eb-9cff-064228470fe5",
+            "AmplifyAppId": "djjnvcxtb7vg9"
+        },
+        "categories": {
+            "auth": {
+                "osloproject754d1e6c": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "djjnvcxtb7vg9",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
